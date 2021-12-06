@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 🌱 I’m currently learning Webpack And TypeScript
+- 🌱 I’m currently learning Webpack, TypeScript and Angular
 - 🔭 I’m currently working on my formation como frontend and i need job 🙏
 - 📫 How to reach me: joss92821@hotmail.com
 - 😄 Pronouns: Manu 😊
