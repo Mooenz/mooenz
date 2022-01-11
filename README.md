@@ -32,7 +32,13 @@
 ![angular](https://img.shields.io/badge/ANGULAR-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![node](https://img.shields.io/badge/NODE-339933?style=flat-square&logo=node.js&logoColor=white)
 
-## 📈 **My stats**
+## 📈 **My gitHub stats**
+
+![gitHub stats](https://github-readme-stats.vercel.app/api?username=mooenz&show_icons=true)
+
+## ✨ **Most used languages**
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mooenz&theme=blue-green)
 
 ## 💖 **Hire me**
 
