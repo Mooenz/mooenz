@@ -34,8 +34,8 @@
 
 ## 📈 **My stats**
 <figure>
-  <embed src="https://wakatime.com/share/@595d710d-5bbb-46b9-85e0-a4e0b65716fd/8056eaa7-7428-4ff6-8389-cb5956e3af0a.svg"></embed>
- </figure>
+  <img src="https://wakatime.com/share/@595d710d-5bbb-46b9-85e0-a4e0b65716fd/8056eaa7-7428-4ff6-8389-cb5956e3af0a.svg"></img>
+</figure>
 
 ## 💖 **Hire me**
 
