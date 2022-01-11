@@ -32,7 +32,6 @@
 ![angular](https://img.shields.io/badge/ANGULAR-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![node](https://img.shields.io/badge/NODE-339933?style=flat-square&logo=node.js&logoColor=white)
 
-<<<<<<< HEAD
 ## 📈 **My gitHub stats**
 
 ![gitHub stats](https://github-readme-stats.vercel.app/api?username=mooenz&show_icons=true)
@@ -40,12 +39,7 @@
 ## ✨ **Most used languages**
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mooenz&theme=blue-green)
-=======
-## 📈 **My stats**
-<figure>
-  <img src="https://wakatime.com/share/@595d710d-5bbb-46b9-85e0-a4e0b65716fd/8056eaa7-7428-4ff6-8389-cb5956e3af0a.svg"></img>
-</figure>
->>>>>>> 6d9d0de3e63e47926d61f0e9582ffa6115a8347e
+
 
 ## 💖 **Hire me**
 
