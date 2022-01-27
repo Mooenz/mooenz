@@ -29,6 +29,7 @@
 ![webpack](https://img.shields.io/badge/WEBPACK-8DD6F9?style=flat-square&logo=webpack&logoColor=222)
 ![typescript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typeScript&logoColor=white)
 ![react](https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=white)
+![next](https://img.shields.io/badge/NEXT.JS-000?style=flat-square&logo=next.js&logoColor=white)
 ![angular](https://img.shields.io/badge/ANGULAR-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![node](https://img.shields.io/badge/NODE-339933?style=flat-square&logo=node.js&logoColor=white)
 
