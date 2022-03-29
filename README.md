@@ -35,12 +35,11 @@
 
 ## 📈 **My gitHub stats**
 
-![gitHub stats](https://github-readme-stats.vercel.app/api?username=mooenz&show_icons=true)
+![gitHub stats](https://github-readme-stats.vercel.app/api?username=mooenz&show_icons=true&theme=onedark)
 
 ## ✨ **Most used languages**
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mooenz&theme=blue-green)
-
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mooenz&layout=compact&show_icons=true&theme=onedark)
 
 ## 💖 **Hire me**
 
