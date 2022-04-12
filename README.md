@@ -1,4 +1,7 @@
-# **Hi there** 👋, [im Jose Manuel](https://mooenz.github.io/curriculum-vitae) Frontend Developer
+<h1>
+  <strong>Hi there <img src="./hello.gif"  width="40px" /> , <a href="https://www.mooenz.me/" target="_blank" rel="noopener noreferrer" >im Jose Manuel</a> Frontend Developer
+  </strong>
+</h1>
 
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -6,10 +9,10 @@
 - 💬 Ask me about ...
 -->
 
-- 🌱 I’m currently learning Webpack, TypeScript and Angular
+- 🌱 I’m currently learning Webpack, TypeScript and Styled-Components
 - 🔭 I’m currently working on my formation como frontend and i need job 🙏
 - 📫 How to reach me: joss92821@hotmail.com
-- 😄 Pronouns: Manu 😊
+- 😄 Call me: Manu 😊
 - ⚡ Fun fact: I like video games and soccer
 
 ## 💪🏼 **I use**
@@ -30,16 +33,20 @@
 ![typescript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typeScript&logoColor=white)
 ![react](https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![next](https://img.shields.io/badge/NEXT.JS-000?style=flat-square&logo=next.js&logoColor=white)
-![angular](https://img.shields.io/badge/ANGULAR-DD0031?style=flat-square&logo=angular&logoColor=white)
+![styled components](https://img.shields.io/badge/STYLED%20COMPONENTS-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 ![node](https://img.shields.io/badge/NODE-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ## 📈 **My gitHub stats**
 
-![gitHub stats](https://github-readme-stats.vercel.app/api?username=mooenz&show_icons=true&theme=onedark)
+<a href="https://www.mooenz.me/" title="Mooenz site" target="_blank" rel="noopener noreferrer">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mooenz&show_icons=true&theme=onedark" />
+</a>
 
 ## ✨ **Most used languages**
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mooenz&layout=compact&show_icons=true&theme=onedark)
+<a href="https://www.mooenz.me/" title="Mooenz site" target="_blank" rel="noopener noreferrer">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooenz&layout=compact&show_icons=true&theme=onedark" />
+</a>
 
 ## 💖 **Hire me**
 
