@@ -26,6 +26,7 @@
 ![figma](https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![styled components](https://img.shields.io/badge/STYLED%20COMPONENTS-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 
 ### 🚀 **Learning**
 
@@ -33,7 +34,6 @@
 ![typescript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typeScript&logoColor=white)
 ![react](https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![next](https://img.shields.io/badge/NEXT.JS-000?style=flat-square&logo=next.js&logoColor=white)
-![styled components](https://img.shields.io/badge/STYLED%20COMPONENTS-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 ![node](https://img.shields.io/badge/NODE-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ## 📈 **My gitHub stats**
