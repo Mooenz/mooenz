@@ -1,6 +1,6 @@
 <h1>
-  <strong>Hi there <img src="./hello.gif"  width="40px" /> , <a href="https://www.mooenz.me/" target="_blank" rel="noopener noreferrer" >im Jose Manuel</a> Frontend Developer
-  </strong>
+  Hi there <img src="./hello.gif" alt="Say hello gif" width="40px" height="40px" /> , <a href="https://www.mooenz.me/" target="_blank" rel="noopener noreferrer" >im Jose Manuel</a> Frontend Developer
+  
 </h1>
 
 <!--
