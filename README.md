@@ -10,7 +10,7 @@
 -->
 
 <!-- - 🔭 I’m currently working on my formation como frontend and i need job 🙏 -->
-- 🌱 I’m currently Vue.js
+- 🌱 I’m currently React.js
 - 📫 How to reach me: joss92821@hotmail.com
 - 😄 Call me: Manu 😊
 - ⚡ Fun fact: I like video games and soccer
