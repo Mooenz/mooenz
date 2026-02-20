@@ -35,13 +35,13 @@
 ## 📈 **My gitHub stats**
 
 <a href="https://www.mooenz.me/" title="Mooenz site" target="_blank" rel="noopener noreferrer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mooenz&show_icons=true&theme=onedark" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=mooenz&custom_title=Mooenz%20stast&show_icons=true&theme=onedark" />
 </a>
 
 ## ✨ **Most used languages**
 
 <a href="https://www.mooenz.me/" title="Mooenz site" target="_blank" rel="noopener noreferrer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooenz&layout=compact&show_icons=true&theme=onedark" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=mooenz&layout=compact&langs_count=7&theme=onedark" />
 </a>
 
 ## 💖 **Let's connect**
